@@ -36,8 +36,8 @@ Stores booking details
 * Compile all Java files
 * Run Login.java
 * Login using:
-  ** Username: user
-  ** Password: 1919
+  ** Username: admin
+  ** Password: 1234
 ## Learning Outcomes
 * Understanding of real-world application flow
 * Implementation of modular programming
