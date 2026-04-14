@@ -27,8 +27,8 @@ Stores booking details
 ## Tech Stack
 * Language: Java
 * Concepts Used:
-  ** Object-Oriented Programming (OOP)
-  ** Data Structures (HashMap)
+  * Object-Oriented Programming (OOP)
+  * Data Structures (HashMap)
 * Tools: Any Java IDE (Eclipse / IntelliJ / VS Code)
 ## How to Run
 * Clone the repository or download the source code
@@ -36,8 +36,8 @@ Stores booking details
 * Compile all Java files
 * Run Login.java
 * Login using:
-  ** Username: admin
-  ** Password: 1234
+  * Username: admin
+  * Password: 1234
 ## Learning Outcomes
 * Understanding of real-world application flow
 * Implementation of modular programming
