@@ -12,7 +12,7 @@ The Online Reservation System is a Java-based application developed as part of a
 * Ticket Cancellation using PNR
 * Console-based User Interface
 ## Modules
-1 . Login Module
+1. Login Module
 * Validates user credentials
 * Grants access to the system upon successful authentication
 2. Reservation Module
